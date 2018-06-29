@@ -1,3 +1,5 @@
+// +build ignore
+
 //
 // Copyright (c) 2015 The heketi Authors
 //
